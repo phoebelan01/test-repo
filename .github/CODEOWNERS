@@ -1,3 +1,5 @@
 /vagrant/ @wurstbrot
 /test/cypress/ @ShubhamPalriwala
 /frontend/src/app/score-board @J12934
+.wiz @phoebelan01-org/security-reviewers
+CODEOWNERS @ophoebelan01-org/platform-lead
