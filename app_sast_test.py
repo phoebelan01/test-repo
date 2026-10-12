@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/user")
 def get_user():
-    # Line 8: Safe hardcoded value
+    user_input = request.args.get("id")
     user_input = "123"
     
     # ... some lines in between ...
